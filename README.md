@@ -1,18 +1,9 @@
 # Java
 
-1. Bài thi kết thúc học phần
--Đề tài: Xây dựng chương trình quản lý bệnh nhân, bệnh án
-- Mô tả:
-Nhập vào một danh sách bệnh nhân bao gồm: MaBN, tênBN, địa chỉ, Đienthoai,
-Giới tính, ngày sinh, bảo hiểm y tế. Một danh sách bệnh án tương đương với danh sách
-bệnh nhân nêu trên bao gồm các thuộc tính: Mã BA, tenBA, khoa, phòng, ngày vao, ngày
-ra, viện phí. Thiết kế menu thực hiện yêu cầu:
-- In ra màn hình danh sách những bệnh nhân >70 tuổi nằm khoa Ngoại
-- Cho biết danh sách bệnh nhân có tiền viện phí cao nhất
-- Tính số tiền viện phí thu được trong quý 2.2021
+1. Báo cáo thực hành
 
-2. Báo cáo thực hành
 <b>Chương trình 1: Quản lý sinh viên</b>
+
 Mô tả: Nhập một danh sách gồm n sinh viên bao gồm các thuộc tính: MSSV, họ tên
 SV, địa chỉ, giới tính, quê quán, email, điểm 1, điểm 2, điểm 3, điểmTB. Yêu cầu:
 
@@ -28,7 +19,9 @@ viên có điểmTB>7.0 và không có điểm nào dưới 5
 - Sắp xếp danh sách sinh viên theo thứ tự từ điển
 
 - Cho biết thông tin của những sinh viên nữ, có điểm TB>7.0 và điểm 2 >6
+
 <b>Chương trình 2: Quản lý bệnh nhân</b>
+
 Mô tả: Nhập vào một danh sách bệnh nhân bao gồm: MaBN, tênBN, địa chỉ, Đienthoai, Giới tính,
 ngày sinh, bảo hiểm y tế. Một danh sách bệnh án tương đương với danh sách bệnh nhân nêu trên bao
 gồm các thuộc tính: Mã BA, tenBA, khoa, phòng, ngày vao, ngày ra, viện phí. Yêu cầu:
@@ -56,4 +49,14 @@ bệnh nhân<5 tuổi thì bằng 100%)
 
 - In ra danh sách bênh nhân dưới<30 tuổi trái tuyến bảo hiểm
 
+2. Bài thi kết thúc học phần
+-Đề tài: Xây dựng chương trình quản lý bệnh nhân, bệnh án
+- Mô tả:
+Nhập vào một danh sách bệnh nhân bao gồm: MaBN, tênBN, địa chỉ, Đienthoai,
+Giới tính, ngày sinh, bảo hiểm y tế. Một danh sách bệnh án tương đương với danh sách
+bệnh nhân nêu trên bao gồm các thuộc tính: Mã BA, tenBA, khoa, phòng, ngày vao, ngày
+ra, viện phí. Thiết kế menu thực hiện yêu cầu:
+- In ra màn hình danh sách những bệnh nhân >70 tuổi nằm khoa Ngoại
+- Cho biết danh sách bệnh nhân có tiền viện phí cao nhất
+- Tính số tiền viện phí thu được trong quý 2.2021
 
