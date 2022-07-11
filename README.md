@@ -50,8 +50,10 @@ bệnh nhân<5 tuổi thì bằng 100%)
 - In ra danh sách bênh nhân dưới<30 tuổi trái tuyến bảo hiểm
 
 2. Bài thi kết thúc học phần
--Đề tài: Xây dựng chương trình quản lý bệnh nhân, bệnh án
-- Mô tả:
+
+Đề tài: Xây dựng chương trình quản lý bệnh nhân, bệnh án
+
+Mô tả:
 Nhập vào một danh sách bệnh nhân bao gồm: MaBN, tênBN, địa chỉ, Đienthoai,
 Giới tính, ngày sinh, bảo hiểm y tế. Một danh sách bệnh án tương đương với danh sách
 bệnh nhân nêu trên bao gồm các thuộc tính: Mã BA, tenBA, khoa, phòng, ngày vao, ngày
